@@ -66,7 +66,7 @@ plt.axis('off')
 ```
 ### Output:
 #### Display the input Image
-![Output1](https://github.com/SanthoshUthiraKumar/erosion--dilation/assets/119477975/47cbe6a7-ef74-498c-8609-258ba6a83e4c)
+![Output1](https://github.com/SanthoshUthiraKumar/erosion--dilation/assets/119477975/28aacb0f-613a-4789-8b42-d93af4869052)
 
 #### Display the Eroded Image
 ![Output2](https://github.com/SanthoshUthiraKumar/erosion--dilation/assets/119477975/1d087117-d38b-40db-b8ab-398c36f5e97c)
